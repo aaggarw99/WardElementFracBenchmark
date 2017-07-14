@@ -1,0 +1,3 @@
+If you have the matminer folder saved locally on your computer, type:
+sys.path.append("/path/to/folder") in the jupyter notebook.
+
